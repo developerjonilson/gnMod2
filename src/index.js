@@ -1,7 +1,7 @@
 import React from 'react';
-import { View } from 'react-native';
-
 import '~/config/ReactotronConfig';
+
+import { View } from 'react-native';
 
 const App = () => <View />;
 
